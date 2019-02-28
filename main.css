@@ -1,0 +1,19 @@
+#home {
+  height: 100vh;
+  background-attachment: fixed;
+  background-image: url(https://source.unsplash.com/random);
+}
+
+#use {
+  height: 100vh;
+  background-color: white;
+}
+#use i {
+  font-size: 70px;
+}
+
+footer i {
+  font-size: 30px;
+}
+
+/*# sourceMappingURL=main.css.map */
